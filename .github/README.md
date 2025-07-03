@@ -20,10 +20,10 @@
 
 ## Gallery
 
-![Login Screen](assets/login.png)
-![Overworld](assets/overworld.png)
-![Dialog](assets/dialog.png)
-![Battle](assets/battle.png)
+![Login Screen](https://raw.githubusercontent.com/trashcatt/rose-pine-pokemmo/refs/heads/beta-lny25/assets/login.png)
+![Overworld](https://raw.githubusercontent.com/trashcatt/rose-pine-pokemmo/refs/heads/beta-lny25/assets/overworld.png)
+![Dialog](https://raw.githubusercontent.com/trashcatt/rose-pine-pokemmo/refs/heads/beta-lny25/assets/dialog.png)
+![Battle](https://raw.githubusercontent.com/trashcatt/rose-pine-pokemmo/refs/heads/beta-lny25/assets/battle.png)
 ## Thanks to
 
 - [ssjshields](https://github.com/ssjshields) for the Archetype theme. (All I did was change some colors.)
